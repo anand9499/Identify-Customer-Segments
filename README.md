@@ -2,7 +2,7 @@
 
 The project used a proprietary data set of German population data and customer data from a mail-order company to be able to identify under-representation and over-representation of customer segments between the two populations.
 
-The project involved data wrangling and feature engineering to develop a data set for analysis, using Principle Component Analysis to segment the data and KMeans to compare segments between the two datasets.
+The project involved data wrangling and feature engineering to develop a data set for analysis, using Principal Component Analysis to segment the data and KMeans to compare segments between the two datasets.
 
 
 # Key Findings
